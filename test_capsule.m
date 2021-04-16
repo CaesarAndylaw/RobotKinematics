@@ -1,6 +1,6 @@
 % draw gp50
 % clc
-clear
+clear  
 
 addpath('Library')
 ROBOT = 'GP50';
